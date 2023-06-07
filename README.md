@@ -2,3 +2,5 @@
 
 I'am Java backend developer. <br />
 I am interested in programming and always learning new things about it.
+
+If you are interested in programming, here are the best channels and sites for you👇
