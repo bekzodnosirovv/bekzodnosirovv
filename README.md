@@ -13,7 +13,7 @@ If you are interested in programming, here are the best channels and sites for y
 </a>
 
 
-<br />
+<br /><br />
 ### Languages and tools I work with :
 
 <code><img src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg" width=40px></code>
