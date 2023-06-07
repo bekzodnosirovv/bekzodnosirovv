@@ -3,11 +3,11 @@
 I'am Java backend developer. <br />
 I am interested in programming and always learning new things about it.
 
-If you are interested in programming, here are the best channels and sites for you👇
-
+If you are interested in programming, here are the best channels and sites for you
+👇
 <a href="https://www.youtube.com/@codeuz8122/featured">
 <img src="https://img.freepik.com/free-icon/youtube_318-566773.jpg" width=25px>
 </a>
-<a href="https://www.dasturlash.uz/lesson">
+   <a href="https://www.dasturlash.uz/lesson">
 <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width=25px>
 </a>
