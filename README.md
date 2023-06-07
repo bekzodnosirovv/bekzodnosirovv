@@ -4,7 +4,7 @@ I'am Java backend developer. <br />
 I am interested in programming and always learning new things about it.
 
 If you are interested in programming, here are the best channels and sites for you. <br />
-👉 
+<code><img src="https://w7.pngwing.com/pngs/402/1012/png-transparent-emoji-iphone-computer-icons-hand-point-hand-material-hand-point-thumbnail.png" width=25px></code>
 <a href="https://www.youtube.com/@codeuz8122/featured">
 <img src="https://img.freepik.com/free-icon/youtube_318-566773.jpg" width=25px>
 </a>
