@@ -4,7 +4,7 @@ I'am Java backend developer. <br />
 I am interested in programming and always learning new things about it.
 
 If you are interested in programming, here are the best channels and sites for you. <br />
-👇<br />
+👉 
 <a href="https://www.youtube.com/@codeuz8122/featured">
 <img src="https://img.freepik.com/free-icon/youtube_318-566773.jpg" width=25px>
 </a>
