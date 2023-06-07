@@ -11,3 +11,16 @@ If you are interested in programming, here are the best channels and sites for y
    <a href="https://www.dasturlash.uz/lesson">
 <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" width=25px>
 </a>
+
+<br />
+
+### Languages and tools I work with :
+
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=25px></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=25px></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=25px></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=25px></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=25px></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=25px></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width=25px></code>
+
